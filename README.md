@@ -1,5 +1,5 @@
 # phrases
-This flutter app translates a list of few basic phrases from Romanian language to Russian. This application allows you to listen to the sentences when pressing the specific button of the choosen phrase.
+This flutter app translates a list of few basic phrases from Romanian language to Russian. This application allows you to listen to pronunciation of the sentences when pressing the button of the choosen phrase.
 
 ## Enjoy
 
