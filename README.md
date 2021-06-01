@@ -1,16 +1,9 @@
 # phrases
+This flutter app translates a list of few basic phrases from Romanian language to Russian. This application allows you to listen to the sentences when pressing the specific button of the choosen phrase.
 
-A new Flutter application.
+## Enjoy
 
-## Getting Started
+<p align="center">
+  <img src="https://github.com/AlinaCalmis/Basic-Phrases/blob/master/Basic.png" width="400" title="S">
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
