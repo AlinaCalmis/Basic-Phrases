@@ -1,9 +1,7 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_tts/flutter_tts.dart';
 
 void main() => runApp(const App());
-
 
 class App extends StatelessWidget {
   const App({Key? key}) : super(key: key);
@@ -303,4 +301,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
